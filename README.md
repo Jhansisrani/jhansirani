@@ -1,7 +1,6 @@
 # Hi, I'm Jhansi 👋
 
-### Data Engineering | SQL & Oracle PL/SQL | Python | Cloud Data Engineering
-
+### Data Engineering | SQL & Oracle PL/SQL |Software developer
 I am a Computer Science postgraduate with professional experience in **SQL, Oracle PL/SQL, database development, and software engineering**.
 
 Currently building hands-on experience in **Data Engineering, cloud platforms, data pipelines, and modern data technologies** through practical projects.
@@ -118,7 +117,7 @@ My GitHub profile documents my ongoing Data Engineering learning, practice, and 
 ## 🔗 Connect With Me
 
 * 💻 [GitHub](https://github.com/Jhansisrani)
-* 💼 LinkedIn — *[Add your LinkedIn profile link](https://www.linkedin.com/in/jhansirani-s-a1b24a36/)*
+* 💼 LinkedIn — [Add your LinkedIn profile link](https://www.linkedin.com/in/jhansirani-s-a1b24a36/)
 * 📄 Resume — *Add resume link when ready*
 
 ---
