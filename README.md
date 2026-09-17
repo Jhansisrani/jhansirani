@@ -70,7 +70,8 @@ Snowflake | SQL | Amazon S3 | Snowpipe | Streams | Tasks | MERGE
 
 End-to-end practice project demonstrating automated S3 ingestion, Snowflake ELT transformations, data-quality validation, error handling, CDC processing, and incremental production loading.
 
-➡️ View Project Repository
+➡️ [View Project Repository](https://github.com/Jhansisrani/snowflake-elt-cdc-pipeline)
+
 ---
 
 ## 📚 Data Engineering Learning
