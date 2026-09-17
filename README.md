@@ -11,6 +11,16 @@
 │                                              │
 └──────────────────────────────────────────────┘
 
+┌──────────────────────────────────────────────┐
+│                                              │
+│       JHANSI SRANI                           │
+│       DATA ENGINEERING                       │
+│                                              │
+│   Python • SQL • AWS • Azure • Snowflake    │
+│   Databricks • PySpark • ETL • CDC          │
+│                                              │
+└──────────────────────────────────────────────┘
+
 I am a Computer Science postgraduate with professional experience in **SQL, Oracle PL/SQL, database development, and software engineering**.
 
 Currently building hands-on experience in **Data Engineering, cloud platforms, data pipelines, and modern data technologies** through practical projects.
