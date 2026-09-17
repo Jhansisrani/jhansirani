@@ -64,13 +64,13 @@ End-to-end practice project demonstrating real-time data generation, AWS ingesti
 
 ➡️ [View Project Repository](https://github.com/Jhansisrani/realtime-kinesis-s3-snowflake-autoingestion)
 
-2. Automated Snowflake ELT & CDC Pipeline – Bookstore Data
+🔹 Automated Snowflake ELT & CDC Pipeline – Bookstore Data
 
 Snowflake | SQL | Amazon S3 | Snowpipe | Streams | Tasks | MERGE
 
-Built an end-to-end Snowflake ELT pipeline for bookstore data with automated S3 ingestion, data cleansing and validation, error-record handling, CDC using Streams, and incremental production loading using Tasks and MERGE.
+End-to-end practice project demonstrating automated S3 ingestion, Snowflake ELT transformations, data-quality validation, error handling, CDC processing, and incremental production loading.
 
-🔗 GitHub: https://github.com/Jhansisrani/snowflake-elt-cdc-pipeline
+➡️ View Project Repository
 ---
 
 ## 📚 Data Engineering Learning
