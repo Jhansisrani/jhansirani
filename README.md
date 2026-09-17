@@ -119,4 +119,14 @@ I am building on this foundation through hands-on **Data Engineering projects an
 
 ---
 
+## 📊 GitHub Activity & Metrics
+
+[![GitHub followers](https://img.shields.io/github/followers/Jhansisrani?label=Followers&style=for-the-badge&logo=github)](https://github.com/Jhansisrani)
+
+[![GitHub stars](https://img.shields.io/github/stars/Jhansisrani?label=Total%20Stars&style=for-the-badge&logo=github)](https://github.com/Jhansisrani?tab=repositories)
+
+### 🐍 Contribution Activity
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Jhansisrani/Jhansisrani/output/github-contribution-grid-snake.svg)
+
 ⭐ Thanks for visiting my profile!
