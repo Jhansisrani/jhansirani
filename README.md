@@ -1,10 +1,12 @@
 # Hi, I'm Jhansi 👋
 
-### Data Engineer | SQL & Oracle PL/SQL | Python | Cloud Data Engineering
+### Data Engineer | SQL & Oracle PL/SQL | Python | Cloud Data Engineering | AI & RAG
 
 I am a Computer Science postgraduate with professional experience in **SQL, Oracle PL/SQL and database development**, along with hands-on experience building **Data Engineering projects** using Python, PySpark, AWS, Azure, Databricks and Snowflake.
 
-Currently strengthening my Data Engineering skills through practical, end-to-end projects involving **ETL pipelines, cloud storage, data ingestion, CDC, Delta Lake, Snowflake Streams & Tasks, and data transformation**.
+Currently strengthening my Data Engineering and AI skills through practical, end-to-end projects involving **ETL pipelines, cloud storage, data ingestion, CDC, Delta Lake, Snowflake Streams & Tasks, data transformation, document processing, embeddings, vector databases, RAG and LLM-based applications**.
+
+I am particularly interested in building data pipelines that prepare structured and unstructured data for **analytics and AI applications**, while continuing to develop practical skills across cloud data platforms and modern AI technologies.
 
 ---
 
