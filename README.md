@@ -76,21 +76,25 @@ End-to-end practice project demonstrating automated S3 ingestion, Snowflake ELT 
 
 ## 📚 Data Engineering Learning
 
-Currently working on practical scenarios involving:
+Currently worked on practical scenarios involving:
 
+* Snowflake
+* dbt
 * ETL & ELT pipelines
 * Batch and real-time data ingestion
 * Snowflake Streams & Tasks
 * CDC and incremental processing
+* Data quality and validation
 * MERGE and upsert operations
 * Delta Lake
-* Schema enforcement & schema evolution
-* Databricks & PySpark
-* Snowflake
+* Schema enforcement & schema evolution in Delta Lake
 * AWS S3, Glue & Kinesis
-* Azure ADLS Gen2, Data Factory & Databricks
-* dbt
-* Data quality and validation
+* Azure ADLS Gen2, Data Factory & Databricks  
+* Databricks & PySpark
+* Auto Loader & Structured Streaming in Databricks
+* Schema Evolution in Structured Streaming
+* 
+* Windows & Watermarks in Databricks Structured Streaming
 
 ---
 
