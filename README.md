@@ -66,7 +66,7 @@ End-to-end practice project demonstrating real-time data generation, AWS ingesti
 
 🔹**Automated Snowflake ELT & CDC Pipeline – Bookstore Data**
 
-Snowflake | SQL | Amazon S3 | Snowpipe | Streams | Tasks | MERGE
+**Snowflake | SQL | Amazon S3 | Snowpipe | Streams | Tasks | MERGE**
 
 End-to-end practice project demonstrating automated S3 ingestion, Snowflake ELT transformations, data-quality validation, error handling, CDC processing, and incremental production loading.
 
