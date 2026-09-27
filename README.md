@@ -64,7 +64,7 @@ End-to-end practice project demonstrating real-time data generation, AWS ingesti
 
 ➡️ [View Project Repository](https://github.com/Jhansisrani/realtime-kinesis-s3-snowflake-autoingestion)
 
-🔹** Automated Snowflake ELT & CDC Pipeline – Bookstore Data**
+🔹**Automated Snowflake ELT & CDC Pipeline – Bookstore Data**
 
 Snowflake | SQL | Amazon S3 | Snowpipe | Streams | Tasks | MERGE
 
