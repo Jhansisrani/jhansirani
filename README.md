@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Jhansirani - Data Engineering" width="100%" />
+  <img src="assets/banner.png" alt="Jhansirani - Data Engineering" width="100%" />
 </p>
 
 <p align="center">
@@ -63,16 +63,6 @@ I'm particularly interested in building data pipelines that prepare structured a
 
 Completed **8 Databricks Academy courses** in October 2026 while preparing for the **Databricks Certified Data Engineer Associate** exam.
 
-<p>
-  <img src="assets/badges/data-ingestion-lakeflow-connect.png" height="110" alt="Data Ingestion with Lakeflow Connect badge" />
-  <img src="assets/badges/lakeflow-jobs.png" height="110" alt="Deploy Workloads with Lakeflow Jobs badge" />
-  <img src="assets/badges/build-pipelines-spark-declarative.png" height="110" alt="Build Data Pipelines with Spark Declarative Pipelines badge" />
-  <img src="assets/badges/advanced-spark-declarative.png" height="110" alt="Advanced Techniques with Spark Declarative Pipelines badge" />
-  <img src="assets/badges/devops-essentials.png" height="110" alt="DevOps Essentials for Data Engineering badge" />
-  <img src="assets/badges/automated-deployment-dabs.png" height="110" alt="Automated Deployment with Declarative Automation Bundles badge" />
-  <img src="assets/badges/data-privacy.png" height="110" alt="Databricks Data Privacy badge" />
-  <img src="assets/badges/performance-optimization.png" height="110" alt="Databricks Performance Optimization badge" />
-</p>
 
 | # | Course | Completed |
 |---|--------|-----------|
