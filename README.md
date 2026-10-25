@@ -142,7 +142,7 @@ Hands-on practice with scenarios involving:
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Jhansirani](https://www.linkedin.com/in/jhansirani-s-a1b24a36/)
-- 💻 GitHub: [Jhansisrani](https://github.com/Jhansisrani)
+- 💼 LinkedIn : [Jhansirani](https://www.linkedin.com/in/jhansirani-s-a1b24a36/)
+- 💻 GitHub   : [Jhansisrani](https://github.com/Jhansisrani)
 
 ⭐ Thanks for visiting my profile!
