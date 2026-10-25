@@ -76,7 +76,7 @@ Completed **8 Databricks Academy courses** in October 2026 while preparing for t
 | 8 | Databricks Performance Optimization | 2026-10-24 |
 
 <p align="center">
-  <img src="assets/databricks-certificates_badges.png" width="560" alt="Databricks Academy certificates and badges collage" />
+  <img src="assets/databricks_certificates_badges.png" width="560" alt="Databricks Academy certificates and badges collage" />
 </p>
 
 ---
