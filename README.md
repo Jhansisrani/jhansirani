@@ -62,12 +62,12 @@ I'm particularly interested in building data pipelines that prepare structured a
 
 <p>
   <a href="YOUR_CREDENTIAL_LINK">
-    <img src="assets/certification databricks.png" height="140" alt="Databricks Certified Data Engineer Associate" />
+    <img src="assets/certfication databricks.png" height="140" alt="Databricks Certified Data Engineer Associate" />
   </a>
 </p>
 
 **Databricks Certified Data Engineer Associate** · Databricks · Issued 2026
-[View credential][(YOUR_CREDENTIAL_LINK)](https://credentials.databricks.com/profile/jhansiraniselvam734255/wallet)
+[View credential](https://credentials.databricks.com/profile/jhansiraniselvam734255/wallet)
 
 ## 🎓 Databricks Learning Journey
 
