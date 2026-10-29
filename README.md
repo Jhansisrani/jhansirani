@@ -58,6 +58,16 @@ I'm particularly interested in building data pipelines that prepare structured a
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+## 🏅 Certification
+
+<p>
+  <a href="YOUR_CREDENTIAL_LINK">
+    <img src="assets/certification databricks.png" height="140" alt="Databricks Certified Data Engineer Associate" />
+  </a>
+</p>
+
+**Databricks Certified Data Engineer Associate** · Databricks · Issued 2026
+[View credential][(YOUR_CREDENTIAL_LINK)](https://credentials.databricks.com/profile/jhansiraniselvam734255/wallet)
 
 ## 🎓 Databricks Learning Journey
 
@@ -75,11 +85,9 @@ Completed **8 Databricks Academy courses** in October 2026 while preparing for t
 | 7 | Databricks Data Privacy | 2026-10-20 |
 | 8 | Databricks Performance Optimization | 2026-10-24 |
 
-<p align="center">
-  <img src="assets/Databricks Cretified Data Engineer Associate.pdf" width="560" alt="Databricks Academy certificates and badges collage" />
-</p>
 
 ---
+
 
 ## 📂 Featured Data Engineering Projects
 
