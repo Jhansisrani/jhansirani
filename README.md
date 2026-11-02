@@ -93,6 +93,14 @@ Completed **8 Databricks Academy courses** in October 2026 while preparing for t
 
 > More projects will be added here as they are completed and polished.
 
+### 🔹 Sales Streaming Medallion Pipeline – Databricks
+
+`Python` `PySpark` `Databricks` `Auto Loader` `Delta Lake` `AWS S3` `Lakeflow Jobs` `Databricks Asset Bundles` `Databricks CLI`
+
+End-to-end practice project demonstrating incremental sales data ingestion from AWS S3 using Databricks Auto Loader, Medallion Architecture (Bronze, Silver and Gold), data-quality handling, checkpoint-based processing and automated workflow orchestration and deployment using Databricks Asset Bundles and CLI.
+
+➡️ [View Project Repository](https://github.com/Jhansisrani/Sales-Streaming-Medallion-Pipeline/tree/main))
+
 ### 🔹 Real-Time Sales Data Ingestion Pipeline
 `Python` `Boto3` `Amazon Kinesis` `AWS S3` `Snowflake` `Snowpipe` `Streams` `Tasks`
 
